@@ -1,4 +1,4 @@
-﻿namespace fctServer
+﻿namespace FctServer
 {
     partial class Server
     {

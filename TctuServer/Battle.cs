@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using static fctServer.CardEffects;
-using static fctServer.Server;
+using static FctServer.CardEffects;
+using static FctServer.Server;
 
-namespace fctServer
+namespace FctServer
 {
     public class Fighter
     {

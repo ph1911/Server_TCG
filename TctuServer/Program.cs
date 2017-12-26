@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace fctServer
+namespace FctServer
 {
     static class Program
     {

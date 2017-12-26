@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace fctServer.Properties {
+namespace FctServer.Properties {
     using System;
     
     
